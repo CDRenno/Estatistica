@@ -1,5 +1,6 @@
-#Estatística: Aplicação ao Sensoriamento Remoto - SER204, INPE, 2024
-#http://www.dpi.inpe.br/~camilo/estatistica
+#Estatística: Aplicação ao Sensoriamento Remoto - SER204, INPE, 2025
+#http://urlib.net/8JMKD2USNRW34T/4D6DMD2
+#https://cdrenno.github.io/Estatistica/
 
 #exemplo 1 - lançamento de dados
 
