@@ -1,5 +1,4 @@
-#Estatística: Aplicação ao Sensoriamento Remoto - SER204, INPE, 2025
-#http://urlib.net/8JMKD2USNRW34T/4D6DMD2
+#Estatística: Aplicação ao Sensoriamento Remoto - SER204, INPE, 2026
 #https://cdrenno.github.io/Estatistica/
 
 # Entrada dos dados
